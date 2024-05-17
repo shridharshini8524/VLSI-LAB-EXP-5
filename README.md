@@ -6,13 +6,12 @@ DATE :
             SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 
-AIM: To simulate and synthesis finite state machine using Xilinx ISE.
+AIM: To simulate and synthesis finite state machine using Vivado.
 
 
 **APPARATUS REQUIRED: **
 
-Xilinx 14.7 
-Spartan6 FPGA
+Vivado software
 
 **PROCEDURE: **
 
