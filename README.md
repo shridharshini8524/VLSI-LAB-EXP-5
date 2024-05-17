@@ -1,6 +1,9 @@
 # VLSI-LAB-EXP-5
+Exp : 5
 
-SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
+DATE : 
+
+            SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE
 
 
 AIM: To simulate and synthesis finite state machine using Xilinx ISE.
